@@ -77,6 +77,8 @@
 
 * https://habr.com/company/mailru/blog/266811/
 * https://habr.com/ru/company/sberbank/blog/413749/
+* https://en.wikipedia.org/wiki/Isolation_(database_systems)
+* https://recepinanc.medium.com/til-9-optimistic-vs-pessimistic-locking-79a349b76dc8
 
 ## Scheduling
 
