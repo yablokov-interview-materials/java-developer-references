@@ -45,6 +45,7 @@
 ## JVM
 
 * https://habr.com/post/269621/
+* https://habr.com/ru/post/269707
 * http://java-online.ru/java-classloader.xhtml
 
 ## Performance
